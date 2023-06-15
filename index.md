@@ -33,8 +33,7 @@ Organizers: <a href="http://www.math.emory.edu/~mchun45/">Matthias Chung</a>, <a
 
 ## Conference program
 
-The conference will begin on the morning of 14 August and end at lunchtime on 17 August. The full conference program can be found here: 
-<a href="TrefethenRetirementConference.pdf">Open Full Conference Program</a>.
+Information to go here. 
 
 ## Applications
 
