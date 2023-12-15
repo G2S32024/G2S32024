@@ -51,8 +51,6 @@ The conference banquet will take place on TBD. The dress code is TBD.
 
 Information to go here. 
 
-<p>&nbsp;</p>
-
 ## Accommodation
 
 Information to go here. 
