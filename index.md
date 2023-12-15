@@ -3,7 +3,7 @@ layout: home
 title: Gene Golub SIAM Summer School 2024: Iterative and Randomized Methods for Large-Scale Inverse Problems
 ---
 
-## Gene Golub SIAM Summer School 2024
+## Gene Golub SIAM Summer School 2024: Iterative and Randomized Methods for Large-Scale Inverse Problems
 
 Our Summer School will enable students to learn state-of-the-art mathematical and statistical tools to discover information hidden within large-scale data sets and solve complex inverse problems. Through hands-on experience with techniques from Randomized Numerical Linear Algebra, data assimilation, iterative algorithms, and inverse problems we will offer students a two-week summer school to learn this valuable range of computational mathematics topics. 
 
