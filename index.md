@@ -11,7 +11,7 @@ We look forward to welcoming you to the Gene Golub SIAM Summer School 2024 from 
 <p>
 Location: Campus of the Escuela Politécnica Nacional, Ladrón de Guevara E11-253, Quito, Ecuador. <br/>
 Dates: 22 July - 2 Aug, 2024 <br/>
-Organizers: <a href="http://www.math.emory.edu/~mchun45/">Matthias Chung</a>, <a href="https://modemat.epn.edu.ec/~jcdelosreyes/">Juan Carlos de los Reyes</a>, <a href="https://www.cs.purdue.edu/homes/pdrineas/">Petros Drineas</a>, <a href="https://search.asu.edu/profile/85017">Rosemary Renaut</a>, <a href="https://pi.math.cornell.edu/~ajt/">Alex Townsend</a>.
+Organizers: <a href="http://www.math.emory.edu/~mchun45/">Matthias Chung</a>, <a href="https://twas.org/directory/de-los-reyes-juan-carlos">Juan Carlos de los Reyes</a>, <a href="https://www.cs.purdue.edu/homes/pdrineas/">Petros Drineas</a>, <a href="https://search.asu.edu/profile/85017">Rosemary Renaut</a>, <a href="https://pi.math.cornell.edu/~ajt/">Alex Townsend</a>.
 </p>
 
 ## Lectures
