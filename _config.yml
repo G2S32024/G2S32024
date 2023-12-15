@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Gene Golub SIAM Summer School 2024
+title: 2024 Gene Golub SIAM Summer School
 email: townsend@cornell.edu
 url: https://G2S3_2024.github.io
 #description: >-
-#  Gene Golub SIAM Summer School 2024&#58; Iterative and Randomized Methods for Large-Scale Inverse Problems
+#  2024 Gene Golub SIAM Summer School&#58; Iterative and Randomized Methods for Large-Scale Inverse Problems
 baseurl: ""
 github_username:  ajt60gaibb
 
