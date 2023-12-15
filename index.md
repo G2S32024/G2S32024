@@ -28,8 +28,7 @@ Organizers: <a href="http://www.math.emory.edu/~mchun45/">Matthias Chung</a>, <a
 
 ## Important dates
 
-<p>XXX 2024: Application deadline for early-career travel support</p>
-<p>XXX 2024: Registration deadline</p>
+<p>March 1, 2024: Application deadline for early-career travel support</p>
 <p>22 July - 2 August 2024: Summer school dates</p>
 <p>XXX August 2024: Banquet</p>
 
@@ -39,11 +38,11 @@ Information to go here.
 
 ## Applications
 
-Applications will <strong>open</strong> at a later date.
+We are now accepting applications. To apply, please fill out this <a href="https://forms.gle/AER1nCpeKZJoTdbe9">Google Form</a>. 
 
 ## Travel support
 
-Acceptance of your application to the summer school will include full travel support. If you need an invitation letter for a visa, then please contact us directly. 
+Acceptance of your application to the summer school will include full travel support. We will provide invitation letter for the accepted applicants who require a visa.
 
 ## Summer school banquet
 
@@ -61,7 +60,7 @@ Information to go here.
 
 ## Getting to Quito, Ecuador
 
-Information to go here. 
+To travel to Quito, Ecuador, you would typically fly into Mariscal Sucre International Airport (IATA code: UIO). 
 
 ## Contact
 
