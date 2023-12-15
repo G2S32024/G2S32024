@@ -22,7 +22,6 @@ Organizers: <a href="http://www.math.emory.edu/~mchun45/">Matthias Chung</a>, <a
 - <a href="http://www.math.emory.edu/~mchun45/">Matthias Chung</a>
 - <a href="https://modemat.epn.edu.ec/~jcdelosreyes/">Juan Carlos de los Reyes</a>
 - <a href="https://www.cs.purdue.edu/homes/pdrineas/">Petros Drineas</a>
-- <a href="https://www.boisestate.edu/computing/jodi-mead/">Jodi Mead</a>
 - <a href="https://search.asu.edu/profile/85017">Rosemary Renaut</a>
 - <a href="https://pi.math.cornell.edu/~ajt/">Alex Townsend</a>
 
