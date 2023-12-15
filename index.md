@@ -70,4 +70,4 @@ For information, contact <a href="mailto:matthias.chung@emory.edu">Matthias Chun
 ## Sponsorship
 
 <p>The conference has been generously sponsored by: </p> <br/>
-  <img src="{{site.url}}/images/siam_logo_blue_cobranded_stack.png" alt="SIAM"/>
+  <img src="siamlogo.jpeg" alt="SIAM"/>
