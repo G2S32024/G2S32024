@@ -41,7 +41,7 @@ We are now accepting applications. To apply, please fill out this <a href="https
 
 ## Travel support
 
-Acceptance of your application to the summer school will include full travel support. We will provide invitation letter for the accepted applicants who require a visa.
+Acceptance of your application to the summer school will include full travel support. We will provide an invitation letter for the accepted applicants who require a visa.
 
 ## Summer school banquet
 
