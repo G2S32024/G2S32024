@@ -9,7 +9,7 @@ title: 2024 Gene Golub SIAM Summer School: Iterative and Randomized Methods for 
 
 Our Summer School will enable students to learn state-of-the-art mathematical and statistical tools to discover information hidden within large-scale data sets and solve complex inverse problems. Through hands-on experience with techniques from Randomized Numerical Linear Algebra, data assimilation, iterative algorithms, and inverse problems we will offer students a two-week summer school to learn this valuable range of computational mathematics topics. 
 
-We look forward to welcoming you to the 2024 Gene Golub SIAM Summer School from 22 July to 2 August 2024. 
+We look forward to welcoming you to the 2024 Gene Golub SIAM Summer School from 22 July to 2 August 2024. Here is our <a href="Advertisement.pdf">flyer</a>.
 <p>
 Location: Campus of the Escuela Politécnica Nacional, Ladrón de Guevara E11-253, Quito, Ecuador. <br/>
 Dates: 22 July - 2 Aug, 2024 <br/>
