@@ -16,12 +16,13 @@ Dates: 22 July - 2 Aug, 2024 <br/>
 Organizers: <a href="http://www.math.emory.edu/~mchun45/">Matthias Chung</a>, <a href="https://twas.org/directory/de-los-reyes-juan-carlos">Juan Carlos de los Reyes</a>, <a href="https://www.cs.purdue.edu/homes/pdrineas/">Petros Drineas</a>, <a href="https://search.asu.edu/profile/85017">Rosemary Renaut</a>, <a href="https://pi.math.cornell.edu/~ajt/">Alex Townsend</a>.
 </p>
 
-## Lectures
+## Lecturers
 
 - <a href="https://www.damtp.cam.ac.uk/user/cbs31/Home.html">Carola Bibane Schönlieb</a>
 - <a href="http://www.math.emory.edu/~mchun45/">Matthias Chung</a>
 - <a href="https://modemat.epn.edu.ec/~jcdelosreyes/">Juan Carlos de los Reyes</a>
 - <a href="https://www.cs.purdue.edu/homes/pdrineas/">Petros Drineas</a>
+- <a href="https://math.la.asu.edu/~mespanol/">Malena Inés Español</a>
 - <a href="https://search.asu.edu/profile/85017">Rosemary Renaut</a>
 - <a href="https://pi.math.cornell.edu/~ajt/">Alex Townsend</a>
 
@@ -65,5 +66,5 @@ For information, contact <a href="mailto:matthias.chung@emory.edu">Matthias Chun
 
 ## Sponsorship
 
-<p>The conference has been generously sponsored by: </p> <br/>
+<p>The  summer school has been generously sponsored by: </p> <br/>
   <img src="siamlogo.jpeg" alt="SIAM"/>
