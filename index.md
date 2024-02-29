@@ -28,17 +28,18 @@ Organizers: <a href="http://www.math.emory.edu/~mchun45/">Matthias Chung</a>, <a
 
 ## Important dates
 
-<p>March 1, 2024: Application deadline for early-career travel support</p>
+<p><u>March 1, 2024: Application deadline for summer schoolt</u></p>
+<p><u>March 7, 2024: Extended application deadline for summer school</u></p>
 <p>22 July - 2 August 2024: Summer school dates</p>
 <p>XXX August 2024: Banquet</p>
 
-## Conference program
+## Summer school program
 
 Information to go here. 
 
 ## Applications
 
-We are now accepting applications. To apply, please fill out this <a href="https://forms.gle/AER1nCpeKZJoTdbe9">Google Form</a>. 
+We are now accepting applications (until 7 March). To apply, please fill out this <a href="https://forms.gle/AER1nCpeKZJoTdbe9">Google Form</a>. 
 
 ## Travel support
 
@@ -46,7 +47,7 @@ Acceptance of your application to the summer school will include full travel sup
 
 ## Summer school banquet
 
-The conference banquet will take place on TBD. The dress code is TBD. 
+The summer school banquet will take place on TBD. The dress code is TBD. 
 
 ## Locations
 
