@@ -28,8 +28,8 @@ Organizers: <a href="http://www.math.emory.edu/~mchun45/">Matthias Chung</a>, <a
 
 ## Important dates
 
-<p><u>March 1, 2024: Application deadline for summer schoolt</u></p>
-<p><u>March 7, 2024: Extended application deadline for summer school</u></p>
+<p><s>March 1, 2024: Application deadline for summer school</s></p>
+<p>March 7, 2024: Extended application deadline for summer school</p>
 <p>22 July - 2 August 2024: Summer school dates</p>
 <p>XXX August 2024: Banquet</p>
 
