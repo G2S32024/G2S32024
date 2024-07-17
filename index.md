@@ -31,7 +31,7 @@ Organizers: <a href="http://www.math.emory.edu/~mchun45/">Matthias Chung</a>, <a
 <p><s>March 1, 2024: Application deadline for summer school</s></p>
 <p>March 7, 2024: Extended application deadline for summer school</p>
 <p>22 July - 2 August 2024: Summer school dates</p>
-<p>XXX August 2024: Banquet</p>
+<p>31 July 2024: Banquet</p>
 
 ## Summer school program
 
@@ -47,15 +47,17 @@ Acceptance of your application to the summer school will include full travel sup
 
 ## Summer school banquet
 
-The summer school banquet will take place on TBD. The dress code is TBD. 
+The summer school banquet will take place at <a href="https://www.elventanal.ec/">El Ventanal</a> restaurant. Located in Quito's downtown.
 
 ## Locations
 
-Information to go here. 
+The Summer School will take place at Escuela Politécnica Nacional in Quito, Ecuador.
+
+G2S3 classroom: Electric Engineering Building (Building 16)
 
 ## Accommodation
 
-Information to go here. 
+All the participants will be staying at the <a href="https://www.fenixhotel.ec/">Fenix Hotel</a> in Quito.
 
 ## Getting to Quito, Ecuador
 
