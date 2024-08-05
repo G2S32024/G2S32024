@@ -46,6 +46,8 @@ feedback:
   - message: "The instructors always took their time to answer questions in detail and participate in discussions. They carefully prepared their lectures and adapted them according to the requests and interests of the audience."
   - message: "I had an amazing time!"
 
+<img src="GroupPhoto2.jpg" alt="Group photo 2">
+
 <!--
 ## Important dates
 
