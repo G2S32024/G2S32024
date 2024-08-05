@@ -31,20 +31,20 @@ Organizers: <a href="http://www.math.emory.edu/~mchun45/">Matthias Chung</a>, <a
 - <a href="https://pi.math.cornell.edu/~ajt/">Alex Townsend</a>
 
 ## Some feedback 
-feedback:
-  - message: "The school was very well organized, the best of the schools I attended ever. The students' presentations allowed us to know what our fellows are doing and to start scientific collaborations. I want to thank the local committee for all the effort. Love you guys!"
-  - message: "The best summer school ever."
-  - message: "The lectures and the location. The organizers were super nice. Saw a lot of the region while also learning a lot of new math. Everything was really well planned."
-  - message: "Give Latin America more chances to organize events like this."
-  - message: "It was an amazing experience. Thank you so much. Quito is a wonderful place. Maybe, in the future, it would be nice to promote more events like this summer school in Latin America."
-  - message: "I really loved the fact that it was in South America. I think that I only became aware of the existence of the G2S3 because it was the first time in Latin America. If I may, I'll suggest that next editions could also happen in South America."
-  - message: "It was really an amazing summer school. It was an opportunity for engagement as I have never experienced before. I am very grateful to have been here, and all the thanks to the organizers for the great job that they did!"
-  - message: "The level of how the presentations were matched to each other. It was one experience rather than many separate talks. I also enjoyed the support from the local organizing team, who made our stay feel safe and entertaining."
-  - message: "The lectures were outstanding and tailored to the audience; there was enough time to discuss with peers and professors."
-  - message: "Just thank you. All the experience was amazing. In particular, for students that usually haven't got access to the kind of information exposed. And I need to say that I really appreciate the human part of the organization. The attention to the small details was admirable."
-  - message: "Thank you so much for organizing all of this. This experience will be extremely influential in my personal and professional career in research."
-  - message: "The instructors always took their time to answer questions in detail and participate in discussions. They carefully prepared their lectures and adapted them according to the requests and interests of the audience."
-  - message: "I had an amazing time!"
+
+  - "The school was very well organized, the best of the schools I attended ever. The students' presentations allowed us to know what our fellows are doing and to start scientific collaborations. I want to thank the local committee for all the effort. Love you guys!"
+  - "The best summer school ever."
+  - "The lectures and the location. The organizers were super nice. Saw a lot of the region while also learning a lot of new math. Everything was really well planned."
+  - "Give Latin America more chances to organize events like this."
+  - "It was an amazing experience. Thank you so much. Quito is a wonderful place. Maybe, in the future, it would be nice to promote more events like this summer school in Latin America."
+  - "I really loved the fact that it was in South America. I think that I only became aware of the existence of the G2S3 because it was the first time in Latin America. If I may, I'll suggest that next editions could also happen in South America."
+  - "It was really an amazing summer school. It was an opportunity for engagement as I have never experienced before. I am very grateful to have been here, and all the thanks to the organizers for the great job that they did!"
+  - "The level of how the presentations were matched to each other. It was one experience rather than many separate talks. I also enjoyed the support from the local organizing team, who made our stay feel safe and entertaining."
+  - "The lectures were outstanding and tailored to the audience; there was enough time to discuss with peers and professors."
+  - "Just thank you. All the experience was amazing. In particular, for students that usually haven't got access to the kind of information exposed. And I need to say that I really appreciate the human part of the organization. The attention to the small details was admirable."
+  - "Thank you so much for organizing all of this. This experience will be extremely influential in my personal and professional career in research."
+  - "The instructors always took their time to answer questions in detail and participate in discussions. They carefully prepared their lectures and adapted them according to the requests and interests of the audience."
+  - "I had an amazing time!"
 
 <img src="GroupPhoto2.jpg" alt="Group photo 2">
 
